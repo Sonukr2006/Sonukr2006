@@ -1,0 +1,43 @@
+{
+  "github_username": "Sonukr2006",
+  "handle": "sonu",
+  "name": "Sonu Kumar",
+  "tagline": "CS Student · Full-Stack Developer · Aspiring Founder",
+  "now": {
+    "role": "Third-year B.Tech CSE student",
+    "where": "@ CGC University Mohali"
+  },
+  "creating": "Real problems into shipped products, full-stack",
+  "stack": [
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "NestJS",
+    "TypeScript",
+    "Prisma",
+    "PostgreSQL"
+  ],
+  "highlights": [
+    "Shipped MeeTogether, live at meetogether.in",
+    "Rank 1 in Diploma with project MealMend, against 20+ teams",
+    "Rank 1 in D4 Community Project Competition with a Markdown Text Editor"
+  ],
+  "headline": "CS Student · Full-Stack Developer · Aspiring Founder",
+  "links": {
+    "email": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/sonu-kumar-00451228a/",
+    "x": "",
+    "youtube": "",
+    "website": "https://sonukr.dev"
+  },
+  "heatmap": {
+    "total": 627,
+    "seed": 29,
+    "end_date": ""
+  },
+  "portrait": {
+    "crop": ""
+  }
+}
